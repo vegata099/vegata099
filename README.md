@@ -63,8 +63,3 @@ Tools & Tech
 💼 DMs open for commissions
 
 🧵 Twitter: <a href="https://x.com/vegataweb3">@vegataweb3</a>
-
-💬 Discord: <b>vegata_py</b>
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vegata099&show_icons=true&theme=default&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegata099&hide_border=true" /> </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6F7FF,100:87CEFA&height=120&section=footer" /> </div> ```
