@@ -57,9 +57,8 @@ APIs that creators can actually use
 
 A studio, not just a demo
 Tools & Tech
-<p align="center"> <img src="https://skillicons.dev/icons?i=blender,unity,threejs,react,nextjs,tailwind,ts,nodejs,python&theme=light" /> </p>
-💬 Commissions & Contact
 
+💬 Commissions & Contact
 💼 DMs open for commissions
 
-🧵 Twitter: <a href="https://x.com/vegataweb3">@vegataweb3</a>
+🧵 Twitter: @vegataweb3
